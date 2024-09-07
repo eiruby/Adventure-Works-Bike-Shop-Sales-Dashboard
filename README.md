@@ -33,4 +33,4 @@ You can explore the dashboard by opening the Power BI file or using Power BI Ser
 
 ## Dataset
 
-The dataset used for this project is the *Adventure Works Bike Shop dataset*, which includes sales transactions, product details, customer information, and geographical data. The dataset was provided as part of the training session.
+The dataset used for this project is the *Adventure Works Bike Shop dataset*, which includes customer, product, reseller, data, sales order, sales territory, and sales data. The dataset was provided as part of the training session.
