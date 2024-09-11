@@ -1,7 +1,5 @@
 # Adventure Works Bike Shop Sales Dashboard
 
-This repository contains the Adventure Works Bike Shop Sales Dashboard created as part of the *Business Intelligence with Power BI Technical Intensive Training* held on July 20, 2024. The training focused on building an end-to-end business intelligence solution using Power BI, with a dataset from the Adventure Works Bike Shop.
-
 ## Project Overview
 
 The goal of this project was to create a comprehensive sales dashboard to analyze sales performance, identify trends, and generate actionable insights for decision-making. The dashboard was developed using the following steps:
